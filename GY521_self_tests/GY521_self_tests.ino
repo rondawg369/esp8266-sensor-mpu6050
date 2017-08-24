@@ -1,5 +1,4 @@
  #include <Wire.h>
- #include <MPU6050.h>
 
 const uint8_t MPU_addr=0x68;  // I2C address of the MPU-6050
 
